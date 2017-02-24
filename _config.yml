@@ -1,0 +1,49 @@
+---
+booktitle: Proceedings of the Workshop on Statistically Sound Data Mining at ECML/PKDD
+volume: 47
+year: '2014'
+shortname: SSDM
+start: 2014-09-15
+end: 2014-09-15
+published: 2015-11-27
+sections:
+- name: preface
+  title: Preface
+- name: default
+  title: Accepted Papers
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: SSDM-2014
+month: 0
+abstract: ''
+editor:
+- given: Wilhelmiina
+  family: Hämäläinen
+- given: François
+  family: Petitjean
+- given: I.
+  family: Webb
+title: Proceedings of the Workshop on Statistically Sound Data Mining at ECML/PKDD
+email: ''
+description: Proceedings of the Workshop on Statistically Sound Data Mining at ECML/PKDD,
+  Nancy, France
+url: http://proceedings.mlr.press
+baseurl: "/v47"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v47
+conference:
+  name: Statistically Sound Data Mining
+  url: http://cs.joensuu.fi/pages/whamalai/SSDM/ssdm14.html
+  location: Nancy, France
+  dates:
+  - 2014-09-15
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from v47.bib

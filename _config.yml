@@ -23,10 +23,21 @@ editor:
   family: Petitjean
 - given: I.
   family: Webb
-title: Proceedings of the Workshop on Statistically Sound Data Mining at ECML/PKDD
-email: ''
-description: Proceedings of the Workshop on Statistically Sound Data Mining at ECML/PKDD,
-  Nancy, France
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Workshop on Statistically Sound Data Mining at ECML/PKDD
+    Held in Nancy, France on 15 September 2014
+
+  Published as Volume 47 by the Proceedings of Machine Learning Research on 27 November 2015.
+
+  Volume Edited by:
+    Wilhelmiina Hämäläinen
+    François Petitjean
+    I. Webb
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
 url: http://proceedings.mlr.press
 baseurl: "/v47"
 twitter_username: mlresearch
@@ -36,6 +47,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v47
+email: ''
 conference:
   name: Statistically Sound Data Mining
   url: http://cs.joensuu.fi/pages/whamalai/SSDM/ssdm14.html

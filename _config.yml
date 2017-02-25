@@ -16,6 +16,8 @@ series: Proceedings of Machine Learning Research
 id: SSDM-2014
 month: 0
 abstract: ''
+tex_title: 
+title: Proceedings of Machine Learning Research
 editor:
 - given: Wilhelmiina
   family: Hämäläinen
@@ -23,7 +25,6 @@ editor:
   family: Petitjean
 - given: I.
   family: Webb
-title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Workshop on Statistically Sound Data Mining at ECML/PKDD
     Held in Nancy, France on 15 September 2014

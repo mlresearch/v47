@@ -18,6 +18,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: vanwinckelen14a
 month: 0
+tex_title: 'Look before you leap: Some insights into learner evaluation with cross-validation'
 firstpage: 3
 lastpage: 20
 page: 3-20

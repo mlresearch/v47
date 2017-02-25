@@ -39,6 +39,7 @@ description: |
   Series Editors:
     Neil D. Lawrence
     Mark Reid
+date_str: 15 Sep
 url: http://proceedings.mlr.press
 baseurl: "/v47"
 twitter_username: mlresearch
@@ -48,6 +49,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v47
+bibtex_copy: true
 email: ''
 conference:
   name: Statistically Sound Data Mining

@@ -22,7 +22,8 @@ tex_title: 'Look before you leap: Some insights into learner evaluation with cro
 firstpage: 3
 lastpage: 20
 page: 3-20
-sections: 
+order: 3
+cycles: false
 author:
 - given: Gitte
   family: Vanwinckelen

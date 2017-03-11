@@ -15,9 +15,6 @@ layout: proceedings
 series: Proceedings of Machine Learning Research
 id: SSDM-2014
 month: 0
-abstract: ''
-tex_title: 
-title: Proceedings of Machine Learning Research
 cycles: false
 editor:
 - given: Wilhelmiina
@@ -26,6 +23,7 @@ editor:
   family: Petitjean
 - given: I.
   family: Webb
+title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Workshop on Statistically Sound Data Mining at ECML/PKDD
     Held in Nancy, France on 15 September 2014
@@ -43,7 +41,7 @@ description: |
 date_str: 15 Sep
 url: http://proceedings.mlr.press
 baseurl: "/v47"
-twitter_username: mlresearch
+twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
@@ -55,6 +53,7 @@ display:
     bibtex: true
     endnote: true
     apa: true
+    ris: true
   comments: false
 email: ''
 conference:
@@ -68,3 +67,4 @@ analytics:
     tracking_id: UA-92432422-1
 # Site settings
 # Auto generated from v47.bib
+---
